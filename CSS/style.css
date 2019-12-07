@@ -1,0 +1,76 @@
+body{
+
+    background-color:ivory ;
+}
+
+
+
+ul{
+    display: block;
+    text-align: center;
+    padding: 2vh 0;
+    background-color: khaki;
+}
+li{
+    list-style: none;
+    display: inline-block;
+    width: 15%;
+}
+li a:hover{
+   text-decoration: none;
+}
+.inline{
+    display: inline;
+    
+}
+.inline-block{
+    display: inline-block;
+    width: 50%;
+}
+h2{
+    text-align: center;
+}
+.table thead{
+    background-color: tomato;
+}
+.trhover tbody tr:hover{
+    background-color: yellow;
+}
+
+.trhover thead tr:hover {
+    background-color: green;
+}
+
+.container{
+
+    text-align: center;
+}
+
+#A{ background-color: tomato;}
+#B{ background-color: blue;}
+#C{ background-color: green;}
+#D{ background-color: violet;}
+#E{ background-color: yellow;}
+#F{ background-color: skyblue;}
+
+.lastRow{
+    height: 100;
+}
+
+.firstRow{
+ 
+    height: 30px;
+
+}
+.row{
+    margin-bottom: 2px;
+    text-align: center;
+}
+
+.middleRow {
+    height: 200px;
+}
+
+
+
+
